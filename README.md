@@ -7,7 +7,7 @@
 - [Blog post + video] [Part 5: CI/CD pipeline with MuleSoft and GitHub Actions - Enabling MFA through a Connected App](https://www.prostdev.com/post/part-5-ci-cd-pipeline-with-mulesoft-and-github-actions-enabling-mfa-through-a-connected-app)
 
 > **Note**
-> 
+> **Note**
 > This is a simple Mule application to test. Please update the `app.name` and `env` properties from the `pom.xml` to your own.
 
 ## Other resources
